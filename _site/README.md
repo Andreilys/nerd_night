@@ -1,33 +1,17 @@
-# Landing Page Jekyll theme
+# Nerd Night
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+www.nerdnight.fun
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+Nerd Night is a Los Angeles based community of curious intellectuals who believe in lifelong learning and the power of sharing knowledge. Our goal is to provide a space for people to get together and geek out about the things they're passionate about. Whether you're into science, history, art, or anything else, there's a place for you here at Nerd Night.
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
+Each Nerd Night is hosted by a member of our community and consists of four speakers. Previous talks have ranged in length (10-30mins) and have included: How to Make an Award Winning Wine, Simulation Theory, and Building 3D Printed Rockets.
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+Come join and satisfy your curiosity!
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
 ===
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
-
-## License
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 The contents of this repository are licensed under the [Apache
 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
