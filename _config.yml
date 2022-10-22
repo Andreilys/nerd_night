@@ -1,0 +1,34 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://nerdnight.fun
+title: Nerd Night
+email: andreilyskov@gmail.com
+author: Andrei Lyskov
+description: > # "Write an awesome description for your new site here. 
+  Nerd Night is a community for curious minds interested in learning.
+copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: whatsapp
+    url: https://chat.whatsapp.com/GA3vznEGx7XA1u6ZbaYJkJ
+  - title: youtube
+    url: 
+  - title: instagram
+    url: 
+  - title: Host or Speak
+    url: https://forms.gle/hhFoToCSyrnT2SZ69
