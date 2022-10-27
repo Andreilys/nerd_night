@@ -27,9 +27,9 @@ plugins:
 social:
   - title: whatsapp
     url: https://chat.whatsapp.com/GA3vznEGx7XA1u6ZbaYJkJ
-  - title: youtube
-    url: 
-  - title: instagram
-    url: 
+    #  - title: youtube
+    #url: 
+    #- title: instagram
+    #url: 
   - title: Host or Speak
     url: https://forms.gle/hhFoToCSyrnT2SZ69
